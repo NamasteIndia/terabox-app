@@ -161,7 +161,10 @@ export default function Home() {
           <li>
             {/* <Camera color="red" size={48} /> */}
             <Button className="bg-blue-600">
-              <Link href="https://t.me/RoldexVerse">Telegram</Link>
+              <Link href="https://t.me/requestcenterr">Support</Link>
+            </Button>
+            <Button className="bg-blue-600">
+              <Link href="https://github.com/NamasteIndia/terabox-app">Github</Link>
             </Button>
           </li>
         </ul>
@@ -170,7 +173,7 @@ export default function Home() {
         <h1 className="text-xl sm:text-3xl font-bold text-center text-white">
           Terabox Downloader
         </h1>
-        <p className="text-center text-white">Enter your Terabox link below</p>
+        <p className="text-center text-white">Enter your Terabox link below, use VPN if issues while downloading</p>
         <div className="flex flex-col justify-center ">
           <div className="self-center text-black">
             <Input
