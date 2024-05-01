@@ -32,7 +32,7 @@ const headers = {
   "Accept-Language": "en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,hi;q=0.6",
   Connection: "keep-alive",
   Cookie:
-    "csrfToken=x0h2WkCSJZZ_ncegDtpABKzt; browserid=Bx3OwxDFKx7eOi8np2AQo2HhlYs5Ww9S8GDf6Bg0q8MTw7cl_3hv7LEcgzk=; lang=en; TSID=pdZVCjBvomsN0LnvT407VJiaJZlfHlVy; __bid_n=187fc5b9ec480cfe574207; ndus=Y-ZNVKxteHuixZLS-xPAQRmqh5zukWbTHVjen34w; __stripe_mid=895ddb1a-fe7d-43fa-a124-406268fe0d0c36e2ae; ndut_fmt=FF870BBFA15F9038B3A39F5DDDF1188864768A8E63DC6AEC54785FCD371BB182",
+    "ndus=YdiBz8HteHui_wwY3kKDqyTm3PucSlkwKbcWtYov;csrfToken=F1zg17QOH1zvKOkQngl687XL;__stripe_sid=b9081afd-9628-430f-adb3-961239d790899e6e61;browserid=uHOasP62qwBsulieIbDDErap_D_6caRVoBWpykPfyXveXi0CTt-ZBOoHLhM=;__stripe_mid=6e31f7f5-f6b0-4115-9369-5cf116a6bf0d14c542;__bid_n=18f33d7c3c3f6f31c34207;lang=en;ndut_fmt=E363F79A6329DCA4E6FC6423FFCE45522173A377F225376C8085C42BBF8B7FA0",
   DNT: "1",
   Host: "www.4funbox.com",
   "Sec-Fetch-Dest": "document",
