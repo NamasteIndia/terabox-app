@@ -32,7 +32,7 @@ const headers = {
   "Accept-Language": "en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,hi;q=0.6",
   Connection: "keep-alive",
   Cookie:
-    "csrfToken=F1zg17QOH1zvKOkQngl687XL;__stripe_sid=b9081afd-9628-430f-adb3-961239d790899e6e61;browserid=uHOasP62qwBsulieIbDDErap_D_6caRVoBWpykPfyXveXi0CTt-ZBOoHLhM=;__stripe_mid=6e31f7f5-f6b0-4115-9369-5cf116a6bf0d14c542;__bid_n=18f33d7c3c3f6f31c34207;lang=en;ndut_fmt=E363F79A6329DCA4E6FC6423FFCE45522173A377F225376C8085C42BBF8B7FA0",
+    "csrfToken=F1zg17QOH1zvKOkQngl687XL; browserid=uHOasP62qwBsulieIbDDErap_D_6caRVoBWpykPfyXveXi0CTt-ZBOoHLhM=; lang=en; __bid_n=18f33d7c3c3f6f31c34207; __stripe_mid=6e31f7f5-f6b0-4115-9369-5cf116a6bf0d14c542; __stripe_sid=b9081afd-9628-430f-adb3-961239d790899e6e61; ndus=YdiBz8HteHui_wwY3kKDqyTm3PucSlkwKbcWtYov; ndut_fmt=E363F79A6329DCA4E6FC6423FFCE45522173A377F225376C8085C42BBF8B7FA0",
   DNT: "1",
   Host: "www.4funbox.com",
   "Sec-Fetch-Dest": "document",
